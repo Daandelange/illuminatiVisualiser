@@ -3,7 +3,7 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
 	// customize parameters
-	debug=true;
+	debug = true;
 	nbEqBands = 10;
 	numTriangles = 5;
 	
